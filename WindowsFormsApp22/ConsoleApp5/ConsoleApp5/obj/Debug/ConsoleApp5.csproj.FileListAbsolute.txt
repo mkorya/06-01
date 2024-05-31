@@ -1,0 +1,40 @@
+D:\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.exe.config
+D:\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.exe
+D:\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.pdb
+D:\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.AssemblyReference.cache
+D:\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.SuggestedBindingRedirects.cache
+D:\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.CoreCompileInputs.cache
+D:\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.exe
+D:\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.pdb
+E:\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.exe.config
+E:\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.exe
+E:\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.pdb
+E:\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.AssemblyReference.cache
+E:\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.SuggestedBindingRedirects.cache
+E:\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.CoreCompileInputs.cache
+E:\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.exe
+E:\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.pdb
+C:\Users\Me\Downloads\Новая папка\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.exe.config
+C:\Users\Me\Downloads\Новая папка\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.exe
+C:\Users\Me\Downloads\Новая папка\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.pdb
+C:\Users\Me\Downloads\Новая папка\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.AssemblyReference.cache
+C:\Users\Me\Downloads\Новая папка\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.SuggestedBindingRedirects.cache
+C:\Users\Me\Downloads\Новая папка\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.CoreCompileInputs.cache
+C:\Users\Me\Downloads\Новая папка\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.exe
+C:\Users\Me\Downloads\Новая папка\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.pdb
+E:\WindowsFormsApp22\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.AssemblyReference.cache
+E:\WindowsFormsApp22\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.SuggestedBindingRedirects.cache
+E:\WindowsFormsApp22\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.CoreCompileInputs.cache
+E:\WindowsFormsApp22\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.exe
+E:\WindowsFormsApp22\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.pdb
+E:\WindowsFormsApp22\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.exe.config
+E:\WindowsFormsApp22\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.exe
+E:\WindowsFormsApp22\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.pdb
+F:\WindowsFormsApp22\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.exe.config
+F:\WindowsFormsApp22\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.exe
+F:\WindowsFormsApp22\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.pdb
+F:\WindowsFormsApp22\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.AssemblyReference.cache
+F:\WindowsFormsApp22\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.SuggestedBindingRedirects.cache
+F:\WindowsFormsApp22\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.CoreCompileInputs.cache
+F:\WindowsFormsApp22\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.exe
+F:\WindowsFormsApp22\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.pdb
